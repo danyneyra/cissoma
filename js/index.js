@@ -1,5 +1,5 @@
 // script.js
-AOS.init()
+
 
 document.addEventListener('DOMContentLoaded', () => {
     const header = document.getElementById('navbar');
